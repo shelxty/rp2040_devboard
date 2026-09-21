@@ -17,8 +17,8 @@ It's designed as a base for embedded projects, with every usable GPIO routed to 
 | SW1 | Tactile switch | BOOTSEL button | SMD | 
 | R1, R2 | 5.1kΩ | USB-C CC1/CC2 pull-downs | 0402 |
 | R3, R4 | 27Ω | USB D+/D- series termination | 0402 | 
-| R5, R7 | 1kΩ | - | 0402 |
-| R6 | 10kΩ | - | 0402 | 
+| R5, R7 | 1kΩ | Damping resistors | 0402 |
+| R6 | 10kΩ | Standard resistor value from datasheet | 0402 | 
 | C1 - C8, C10, C11, C17 | 0.1µF | Decoupling capacitors | 0402 | 
 | C9, C12 | 1µF | Decoupling/bulk capacitors | 0402 | 
 | C13, C14 | 10µF | Bulk/regulator capacitors | 0603 | 
