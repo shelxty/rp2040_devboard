@@ -51,6 +51,7 @@ _Kinda messy schematic view_
 
 _Really messy view of PCB design_
 
-<img width="905" height="627" alt="image" src="https://github.com/user-attachments/assets/7318f75a-bb65-4a9e-b1bc-d510b77e01a2" />
+
+<img width="930" height="507" alt="image" src="https://github.com/user-attachments/assets/19b84c19-d389-4695-9230-13b029af2502" />
 
 _uhhh view of the PCB 3D viewer_
